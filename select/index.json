@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Scream",
+  "base_artist": "BE:FIRST",
+  "createdAt": "2025-12-28T18:23:46.402447Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Scream",
+      "artist": "張懸",
+      "has_synced": true,
+      "path": "select/01_Scream_張懸.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Scream",
+      "artist": "张悬",
+      "has_synced": true,
+      "path": "select/02_Scream_张悬.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Scream Like A Baby - 1999 Remastered Version",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/03_Scream_Like_A_Baby_-_1999_Remastered_Version_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Scream Like a Baby",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/04_Scream_Like_a_Baby_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Scream a.k.a. Itchin'",
+      "artist": "Missy Elliott",
+      "has_synced": true,
+      "path": "select/05_Scream_a.k.a._Itchin'_Missy_Elliott.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Scream",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/06_Scream_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Scream (Feat. Janet Jackson)",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/07_Scream_(Feat._Janet_Jackson)_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Scream a.k.a. Itchin' (feat. Timbaland)",
+      "artist": "Missy Elliott",
+      "has_synced": true,
+      "path": "select/08_Scream_a.k.a._Itchin'_(feat._Timbaland)_Missy_Elliott.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Teardrop - Scream Team Remix",
+      "artist": "Massive Attack",
+      "has_synced": true,
+      "path": "select/09_Teardrop_-_Scream_Team_Remix_Massive_Attack.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Teardrop (Scream Team Remix)",
+      "artist": "Massive Attack",
+      "has_synced": true,
+      "path": "select/10_Teardrop_(Scream_Team_Remix)_Massive_Attack.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Time To Scream And Shout",
+      "artist": "múm",
+      "has_synced": true,
+      "path": "select/11_Time_To_Scream_And_Shout_múm.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Touch Me I'm Going to Scream",
+      "artist": "My Morning Jacket",
+      "has_synced": true,
+      "path": "select/12_Touch_Me_I'm_Going_to_Scream_My_Morning_Jacket.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Touch Me I'm Going To Scream Pt. 2",
+      "artist": "My Morning Jacket",
+      "has_synced": false,
+      "path": "select/13_Touch_Me_I'm_Going_To_Scream_Pt._2_My_Morning_Jacket.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Touch Me I'm Going To Scream Part 2",
+      "artist": "My Morning Jacket",
+      "has_synced": false,
+      "path": "select/14_Touch_Me_I'm_Going_To_Scream_Part_2_My_Morning_Jacket.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Scream",
+      "artist": "Namie Amuro",
+      "has_synced": true,
+      "path": "select/15_Scream_Namie_Amuro.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "You Are Going to Love Me and Scream",
+      "artist": "Against All Logic",
+      "has_synced": true,
+      "path": "select/16_You_Are_Going_to_Love_Me_and_Scream_Against_All_Logic.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "You Are Going to Love Me and Scream",
+      "artist": "A.A.L (Against All Logic)",
+      "has_synced": true,
+      "path": "select/17_You_Are_Going_to_Love_Me_and_Scream_A.A.L_(Against_All_Logic).lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Dance Scream",
+      "artist": "Rico Nasty",
+      "has_synced": true,
+      "path": "select/18_Dance_Scream_Rico_Nasty.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "The Shock of the Lightning (Primal Scream Remix)",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/19_The_Shock_of_the_Lightning_(Primal_Scream_Remix)_Oasis.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Scream",
+      "artist": "BE:FIRST",
+      "has_synced": false,
+      "path": "select/pl_01_Scream_BE_FIRST.txt"
+    }
+  ]
+}
